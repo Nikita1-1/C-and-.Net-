@@ -1,36 +1,53 @@
-﻿using System.Numerics;
-
-namespace VariablesAndDataTypes;
+﻿namespace AnonymousIncomeComparisonProgram;
 class Program
 {
     static void Main(string[] args)
     {
-        // Welcome Text
-        Console.WriteLine("The Tech Academy");
-        Console.WriteLine("Student Daily Report");
+        Console.WriteLine("Anonymous Income Comparison Program");
 
-        // Questions is peresenting in console and taking the an input from a student
-        Console.WriteLine("What is your name? ");
-        string studentName = Console.ReadLine();
-        Console.WriteLine("What course are you on? ");
-        string course = Console.ReadLine();
-        Console.WriteLine("What page number?");
-        string pageNumber = Console.ReadLine();
-        // converting answer into integer
-        int pageNum = Convert.ToInt32(pageNumber);
-        Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\"");
-        string help = Console.ReadLine();
-        //converting answer into boolean otherwise it will raise an error if user write something different from true or false
-        bool isHelp = Convert.ToBoolean(help);
-        Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
-        string experience = Console.ReadLine();
-        Console.WriteLine("Is there any other feedback you’d like to provide? Please be specific.");
-        string feedback = Console.ReadLine();
-        Console.WriteLine("How many hours did you study today?");
+        Console.WriteLine(" Person 1");
+
+        Console.WriteLine("What is your hourly rate?");
+        string hr = Console.ReadLine();
+        decimal rate = Convert.ToDecimal(hr);
+
+        Console.WriteLine("How Many Hours Did You Work This Week?");
         string hours = Console.ReadLine();
-        int hoursStudy = Convert.ToInt32(hours);
-        Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
+        int weeklyHours = Convert.ToInt32(hours);
+
+
+        Console.WriteLine(" Person 2");
+
+        Console.WriteLine("What is your hourly rate?");
+        string hourlyrate = Console.ReadLine();
+        decimal hrate = Convert.ToDecimal(hourlyrate);
+
+        Console.WriteLine("How Many Hours Did You Work This Week?");
+        string hs = Console.ReadLine();
+        int wh = Convert.ToInt32(hs);
+        
+        decimal weeklypay = rate * weeklyHours;
+        decimal yearS = weeklypay * 52;
+
+        decimal wp = hrate * wh;
+        decimal yS = wp * 52;
+
+
+        Console.WriteLine("Annual salary of Person 1: " + yearS);
+        Console.WriteLine("Annual salary of Person 2: " + yS);
+
+
+        Console.WriteLine("Does Person 1 make more money than Person 2?");
+        if ( yearS > yS)
+        {
+            Console.WriteLine("True");
+        }
+        else
+        {
+            Console.WriteLine("False");
+        }
+
+        Console.ReadLine();
 
     }
 }
-
