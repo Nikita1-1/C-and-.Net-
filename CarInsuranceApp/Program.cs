@@ -7,8 +7,8 @@ class Program
         int age = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("Have you ever had a DUI?");
-        string DUI = Console.ReadLine();
-        if (DUI == "yes")
+        bool DUI = Convert.ToBoolean(Console.ReadLine());
+        if (DUI)
         {
             // raise arror if user has dui
             throw new KeyNotFoundException("You cannot have DL if you have DUI");
@@ -18,7 +18,7 @@ class Program
         int tickets = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Qualified?");
 
-        if (age > 15 && DUI == "no" && tickets < 3)
+        if (age > 15 && DUI == false && tickets <= 3)
         {
             Console.WriteLine(true);
         }
