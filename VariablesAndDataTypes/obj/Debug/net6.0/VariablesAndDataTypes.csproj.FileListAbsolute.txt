@@ -1,0 +1,15 @@
+/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/bin/Debug/net6.0/VariablesAndDataTypes
+/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/bin/Debug/net6.0/VariablesAndDataTypes.deps.json
+/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/bin/Debug/net6.0/VariablesAndDataTypes.runtimeconfig.json
+/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/bin/Debug/net6.0/VariablesAndDataTypes.dll
+/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/bin/Debug/net6.0/VariablesAndDataTypes.pdb
+/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net6.0/VariablesAndDataTypes.csproj.AssemblyReference.cache
+/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net6.0/VariablesAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net6.0/VariablesAndDataTypes.AssemblyInfoInputs.cache
+/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net6.0/VariablesAndDataTypes.AssemblyInfo.cs
+/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net6.0/VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net6.0/VariablesAndDataTypes.dll
+/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net6.0/refint/VariablesAndDataTypes.dll
+/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net6.0/VariablesAndDataTypes.pdb
+/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net6.0/VariablesAndDataTypes.genruntimeconfig.cache
+/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/Debug/net6.0/ref/VariablesAndDataTypes.dll
