@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/VariablesAndDataTypes.csproj",
-      "projectName": "VariablesAndDataTypes",
-      "projectPath": "/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/VariablesAndDataTypes.csproj",
+      "projectUniqueName": "/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/DailyReport.csproj",
+      "projectName": "DailyReport",
+      "projectPath": "/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/DailyReport.csproj",
       "packagesPath": "/Users/nikitasazonov/.nuget/packages/",
       "outputPath": "/Users/nikitasazonov/Projects/VariablesAndDataTypes/VariablesAndDataTypes/obj/",
       "projectStyle": "PackageReference",

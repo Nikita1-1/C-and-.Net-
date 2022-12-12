@@ -30,38 +30,5 @@ class Program
         string hours = Console.ReadLine();
         int hoursStudy = Convert.ToInt32(hours);
         Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
-
-
-//        int num1 = 5;
-//        int num2 = 30;
-//        int total = num2 % num1;
-//        Console.WriteLine(total);
-
-
-
-//        int num4 = 9;
-//        float num5 = 434.5f;
-
-//        int t = num4 + (Int32)num5;
-//        Console.WriteLine(t);
-
-
-//        int sum = 5 + 10;
-//        int otherSum = 12 + 32;
-//        int x = sum + otherSum;
-//        Console.WriteLine("Five plus Ten is: " + sum.ToString());
-//        Console.WriteLine(x);
-//        Console.ReadLine();
-
-
-
-
-//        int roomTemperature = 70;
-//        int curentTemp = 70;
-
-//        bool isWarm = roomTemperature <= curentTemp;
-//        Console.WriteLine(isWarm);
-//        Console.ReadLine();
-//    }
-//}
-
+    }
+}
