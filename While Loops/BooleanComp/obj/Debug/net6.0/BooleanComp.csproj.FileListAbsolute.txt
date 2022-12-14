@@ -1,0 +1,15 @@
+/Users/nikitasazonov/Projects/BooleanComp/BooleanComp/bin/Debug/net6.0/BooleanComp
+/Users/nikitasazonov/Projects/BooleanComp/BooleanComp/bin/Debug/net6.0/BooleanComp.deps.json
+/Users/nikitasazonov/Projects/BooleanComp/BooleanComp/bin/Debug/net6.0/BooleanComp.runtimeconfig.json
+/Users/nikitasazonov/Projects/BooleanComp/BooleanComp/bin/Debug/net6.0/BooleanComp.dll
+/Users/nikitasazonov/Projects/BooleanComp/BooleanComp/bin/Debug/net6.0/BooleanComp.pdb
+/Users/nikitasazonov/Projects/BooleanComp/BooleanComp/obj/Debug/net6.0/BooleanComp.csproj.AssemblyReference.cache
+/Users/nikitasazonov/Projects/BooleanComp/BooleanComp/obj/Debug/net6.0/BooleanComp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitasazonov/Projects/BooleanComp/BooleanComp/obj/Debug/net6.0/BooleanComp.AssemblyInfoInputs.cache
+/Users/nikitasazonov/Projects/BooleanComp/BooleanComp/obj/Debug/net6.0/BooleanComp.AssemblyInfo.cs
+/Users/nikitasazonov/Projects/BooleanComp/BooleanComp/obj/Debug/net6.0/BooleanComp.csproj.CoreCompileInputs.cache
+/Users/nikitasazonov/Projects/BooleanComp/BooleanComp/obj/Debug/net6.0/BooleanComp.dll
+/Users/nikitasazonov/Projects/BooleanComp/BooleanComp/obj/Debug/net6.0/refint/BooleanComp.dll
+/Users/nikitasazonov/Projects/BooleanComp/BooleanComp/obj/Debug/net6.0/BooleanComp.pdb
+/Users/nikitasazonov/Projects/BooleanComp/BooleanComp/obj/Debug/net6.0/BooleanComp.genruntimeconfig.cache
+/Users/nikitasazonov/Projects/BooleanComp/BooleanComp/obj/Debug/net6.0/ref/BooleanComp.dll
