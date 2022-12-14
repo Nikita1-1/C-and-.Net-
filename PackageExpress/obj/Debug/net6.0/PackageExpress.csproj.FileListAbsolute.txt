@@ -1,0 +1,15 @@
+/Users/nikitasazonov/Projects/PackageExpress/PackageExpress/bin/Debug/net6.0/PackageExpress
+/Users/nikitasazonov/Projects/PackageExpress/PackageExpress/bin/Debug/net6.0/PackageExpress.deps.json
+/Users/nikitasazonov/Projects/PackageExpress/PackageExpress/bin/Debug/net6.0/PackageExpress.runtimeconfig.json
+/Users/nikitasazonov/Projects/PackageExpress/PackageExpress/bin/Debug/net6.0/PackageExpress.dll
+/Users/nikitasazonov/Projects/PackageExpress/PackageExpress/bin/Debug/net6.0/PackageExpress.pdb
+/Users/nikitasazonov/Projects/PackageExpress/PackageExpress/obj/Debug/net6.0/PackageExpress.csproj.AssemblyReference.cache
+/Users/nikitasazonov/Projects/PackageExpress/PackageExpress/obj/Debug/net6.0/PackageExpress.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitasazonov/Projects/PackageExpress/PackageExpress/obj/Debug/net6.0/PackageExpress.AssemblyInfoInputs.cache
+/Users/nikitasazonov/Projects/PackageExpress/PackageExpress/obj/Debug/net6.0/PackageExpress.AssemblyInfo.cs
+/Users/nikitasazonov/Projects/PackageExpress/PackageExpress/obj/Debug/net6.0/PackageExpress.csproj.CoreCompileInputs.cache
+/Users/nikitasazonov/Projects/PackageExpress/PackageExpress/obj/Debug/net6.0/PackageExpress.dll
+/Users/nikitasazonov/Projects/PackageExpress/PackageExpress/obj/Debug/net6.0/refint/PackageExpress.dll
+/Users/nikitasazonov/Projects/PackageExpress/PackageExpress/obj/Debug/net6.0/PackageExpress.pdb
+/Users/nikitasazonov/Projects/PackageExpress/PackageExpress/obj/Debug/net6.0/PackageExpress.genruntimeconfig.cache
+/Users/nikitasazonov/Projects/PackageExpress/PackageExpress/obj/Debug/net6.0/ref/PackageExpress.dll
