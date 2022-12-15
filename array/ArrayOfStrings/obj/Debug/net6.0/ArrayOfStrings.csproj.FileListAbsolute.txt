@@ -1,0 +1,15 @@
+/Users/nikitasazonov/Projects/ArrayOfStrings/ArrayOfStrings/bin/Debug/net6.0/ArrayOfStrings
+/Users/nikitasazonov/Projects/ArrayOfStrings/ArrayOfStrings/bin/Debug/net6.0/ArrayOfStrings.deps.json
+/Users/nikitasazonov/Projects/ArrayOfStrings/ArrayOfStrings/bin/Debug/net6.0/ArrayOfStrings.runtimeconfig.json
+/Users/nikitasazonov/Projects/ArrayOfStrings/ArrayOfStrings/bin/Debug/net6.0/ArrayOfStrings.dll
+/Users/nikitasazonov/Projects/ArrayOfStrings/ArrayOfStrings/bin/Debug/net6.0/ArrayOfStrings.pdb
+/Users/nikitasazonov/Projects/ArrayOfStrings/ArrayOfStrings/obj/Debug/net6.0/ArrayOfStrings.csproj.AssemblyReference.cache
+/Users/nikitasazonov/Projects/ArrayOfStrings/ArrayOfStrings/obj/Debug/net6.0/ArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitasazonov/Projects/ArrayOfStrings/ArrayOfStrings/obj/Debug/net6.0/ArrayOfStrings.AssemblyInfoInputs.cache
+/Users/nikitasazonov/Projects/ArrayOfStrings/ArrayOfStrings/obj/Debug/net6.0/ArrayOfStrings.AssemblyInfo.cs
+/Users/nikitasazonov/Projects/ArrayOfStrings/ArrayOfStrings/obj/Debug/net6.0/ArrayOfStrings.csproj.CoreCompileInputs.cache
+/Users/nikitasazonov/Projects/ArrayOfStrings/ArrayOfStrings/obj/Debug/net6.0/ArrayOfStrings.dll
+/Users/nikitasazonov/Projects/ArrayOfStrings/ArrayOfStrings/obj/Debug/net6.0/refint/ArrayOfStrings.dll
+/Users/nikitasazonov/Projects/ArrayOfStrings/ArrayOfStrings/obj/Debug/net6.0/ArrayOfStrings.pdb
+/Users/nikitasazonov/Projects/ArrayOfStrings/ArrayOfStrings/obj/Debug/net6.0/ArrayOfStrings.genruntimeconfig.cache
+/Users/nikitasazonov/Projects/ArrayOfStrings/ArrayOfStrings/obj/Debug/net6.0/ref/ArrayOfStrings.dll
