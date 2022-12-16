@@ -6,7 +6,7 @@ class Program
         string[] Array = { "hello", "world", "this", "is", "string" };
         Console.WriteLine("Choose any number between 0-4");
         int index = Convert.ToInt32(Console.ReadLine());
-        if (index > 4)
+        if (index < 0 || index > 4)
         {
             Console.WriteLine("There is no such a number");
         }
