@@ -1,0 +1,15 @@
+/Users/nikitasazonov/Projects/ConsoleApp&Integers/ConsoleApp&Integers/bin/Debug/net6.0/ConsoleApp&Integers
+/Users/nikitasazonov/Projects/ConsoleApp&Integers/ConsoleApp&Integers/bin/Debug/net6.0/ConsoleApp&Integers.deps.json
+/Users/nikitasazonov/Projects/ConsoleApp&Integers/ConsoleApp&Integers/bin/Debug/net6.0/ConsoleApp&Integers.runtimeconfig.json
+/Users/nikitasazonov/Projects/ConsoleApp&Integers/ConsoleApp&Integers/bin/Debug/net6.0/ConsoleApp&Integers.dll
+/Users/nikitasazonov/Projects/ConsoleApp&Integers/ConsoleApp&Integers/bin/Debug/net6.0/ConsoleApp&Integers.pdb
+/Users/nikitasazonov/Projects/ConsoleApp&Integers/ConsoleApp&Integers/obj/Debug/net6.0/ConsoleApp&Integers.csproj.AssemblyReference.cache
+/Users/nikitasazonov/Projects/ConsoleApp&Integers/ConsoleApp&Integers/obj/Debug/net6.0/ConsoleApp&Integers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitasazonov/Projects/ConsoleApp&Integers/ConsoleApp&Integers/obj/Debug/net6.0/ConsoleApp&Integers.AssemblyInfoInputs.cache
+/Users/nikitasazonov/Projects/ConsoleApp&Integers/ConsoleApp&Integers/obj/Debug/net6.0/ConsoleApp&Integers.AssemblyInfo.cs
+/Users/nikitasazonov/Projects/ConsoleApp&Integers/ConsoleApp&Integers/obj/Debug/net6.0/ConsoleApp&Integers.csproj.CoreCompileInputs.cache
+/Users/nikitasazonov/Projects/ConsoleApp&Integers/ConsoleApp&Integers/obj/Debug/net6.0/ConsoleApp&Integers.dll
+/Users/nikitasazonov/Projects/ConsoleApp&Integers/ConsoleApp&Integers/obj/Debug/net6.0/refint/ConsoleApp&Integers.dll
+/Users/nikitasazonov/Projects/ConsoleApp&Integers/ConsoleApp&Integers/obj/Debug/net6.0/ConsoleApp&Integers.pdb
+/Users/nikitasazonov/Projects/ConsoleApp&Integers/ConsoleApp&Integers/obj/Debug/net6.0/ConsoleApp&Integers.genruntimeconfig.cache
+/Users/nikitasazonov/Projects/ConsoleApp&Integers/ConsoleApp&Integers/obj/Debug/net6.0/ref/ConsoleApp&Integers.dll
