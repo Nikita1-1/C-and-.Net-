@@ -1,0 +1,15 @@
+/Users/nikitasazonov/Projects/ClassAssignment/ClassAssignment/bin/Debug/net6.0/ClassAssignment
+/Users/nikitasazonov/Projects/ClassAssignment/ClassAssignment/bin/Debug/net6.0/ClassAssignment.deps.json
+/Users/nikitasazonov/Projects/ClassAssignment/ClassAssignment/bin/Debug/net6.0/ClassAssignment.runtimeconfig.json
+/Users/nikitasazonov/Projects/ClassAssignment/ClassAssignment/bin/Debug/net6.0/ClassAssignment.dll
+/Users/nikitasazonov/Projects/ClassAssignment/ClassAssignment/bin/Debug/net6.0/ClassAssignment.pdb
+/Users/nikitasazonov/Projects/ClassAssignment/ClassAssignment/obj/Debug/net6.0/ClassAssignment.csproj.AssemblyReference.cache
+/Users/nikitasazonov/Projects/ClassAssignment/ClassAssignment/obj/Debug/net6.0/ClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitasazonov/Projects/ClassAssignment/ClassAssignment/obj/Debug/net6.0/ClassAssignment.AssemblyInfoInputs.cache
+/Users/nikitasazonov/Projects/ClassAssignment/ClassAssignment/obj/Debug/net6.0/ClassAssignment.AssemblyInfo.cs
+/Users/nikitasazonov/Projects/ClassAssignment/ClassAssignment/obj/Debug/net6.0/ClassAssignment.csproj.CoreCompileInputs.cache
+/Users/nikitasazonov/Projects/ClassAssignment/ClassAssignment/obj/Debug/net6.0/ClassAssignment.dll
+/Users/nikitasazonov/Projects/ClassAssignment/ClassAssignment/obj/Debug/net6.0/refint/ClassAssignment.dll
+/Users/nikitasazonov/Projects/ClassAssignment/ClassAssignment/obj/Debug/net6.0/ClassAssignment.pdb
+/Users/nikitasazonov/Projects/ClassAssignment/ClassAssignment/obj/Debug/net6.0/ClassAssignment.genruntimeconfig.cache
+/Users/nikitasazonov/Projects/ClassAssignment/ClassAssignment/obj/Debug/net6.0/ref/ClassAssignment.dll
