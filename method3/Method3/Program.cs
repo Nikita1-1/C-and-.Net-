@@ -7,19 +7,26 @@ class Program
 
         Console.WriteLine("please input whole number that is going to multiply by 10");
         Console.WriteLine("if you insert 0, 10 will be multiply by 10 automaticly");
-        int B = Convert.ToInt32(Console.ReadLine());
+        int A = Convert.ToInt32(Console.ReadLine());
+        try
+        {
+            Console.WriteLine("please input whole number, it is not required");
+            int B = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(operation.Multiply(A, B));
 
-        operation.A = 10;
+        }
+        catch
+        {
+            Console.WriteLine(operation.Multiply(A));
+
+        }
         operation.Num1 = 20;
         int Num2 = 20;
 
 
 
         Console.WriteLine("please input number 1 and number 2, number 1 will do some math");
-        
 
-
-        Console.WriteLine(operation.Multiply(B));
 
         operation.twoIntegers(operation.Num1, Num2);
 

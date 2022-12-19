@@ -6,25 +6,26 @@ namespace MainMethod
 		public int A { set; get; }
 		public int B { set; get; }
 		public int C { set; get; }
-
+		public int D { set; get; }
 
 		public int doSomething(int B)
 		{
-			return A - B;
+			return A + B;
 		}
 
 
-		public decimal doSomething(decimal C)
+		public int doSomething( decimal C)
 		{
-			
-			return A / C;
+            int K = Convert.ToInt32(C);
+            return K / A;
 		}
 
-		public string doSomething(string D)
+		public int doSomething(string D)
 		{
-			return A + D;
+			int S = Convert.ToInt32(D);
+			return S + A;
 		}
 
-    }
+	}
 }
 
