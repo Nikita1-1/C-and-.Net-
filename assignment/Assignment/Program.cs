@@ -25,7 +25,7 @@ class Program
         ////while (number != 4)
         //// to change it we need to make this consiton comlete
 
-        //while( zero <= number)
+        //while (zero <= number)
         //{
         //    Console.WriteLine(zero);
         //    zero++;
@@ -40,7 +40,7 @@ class Program
         //    z++;
         //}
 
-        //List<string> fruits = new List<string> {"apple", "strawberry", "banana", "blueberry", "dragonfruit", "orange", "mandarin"};
+        //List<string> fruits = new List<string> { "apple", "strawberry", "banana", "blueberry", "dragonfruit", "orange", "mandarin" };
         //Console.WriteLine("What Fruit Do You Like? Let's see if we have it in our list");
         //string userFruit = Console.ReadLine();
 
@@ -89,33 +89,19 @@ class Program
 
         foreach (string letter in letters)
         {
-            int count = 0;
 
-            foreach (string i in letters)
+           if (duplicates.Contains(letter))
             {
-                if (letter == i)
-                {
-                    count++;
-                    if (count > 1)
-                    {
-                        if (!duplicates.Contains(i))
-                        {
-                            letters.Remove(i);
-                            duplicates.Add(i);
-
-
-                        }
-                    }
-                }
+                Console.WriteLine(letter + " - is duplicate");
             }
-        Console.WriteLine(letter + " - is unique");
+           else
+            {
+                Console.WriteLine(letter + " - is unique");
+            }
 
+            duplicates.Add(letter);
+     
         }
-        foreach (string dupl in duplicates)
-        {
-            Console.WriteLine(dupl + " - is not unique");
-        }
-
         Console.ReadLine();
 
     }
