@@ -1,13 +1,14 @@
 ﻿using System;
 namespace OPERATORS
 {
-	public class Employee
+	public class Employee<T>
 	{
+		public List<T> things { get; set;  }
 		public int ID { get; set; }
 		public string firstName { get; set; }
 		public string lastName { get; set; }
 
-		public static Boolean operator== (Employee employee1, Employee employee2)
+		public static Boolean operator ==(Employee<T> employee1, Employee<T> employee2)
 		{
 			if (employee1.ID == employee2.ID)
 			{
@@ -19,17 +20,18 @@ namespace OPERATORS
 			}
 		}
 
-		public static Boolean operator!= (Employee employee1, Employee employee2)
+		public static Boolean operator !=(Employee<T> employee1, Employee<T> employee2)
 		{
-            if (employee1.ID != employee2.ID)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-        }
+			if (employee1.ID != employee2.ID)
+			{
+				return true;
+			}
+			else
+			{
+				return false;
+			}
+		}
 	}
 }
+
 
