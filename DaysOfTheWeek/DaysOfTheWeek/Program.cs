@@ -20,12 +20,7 @@ class Program
             allDays dayValue = (allDays)Enum.Parse(typeof(allDays), day);
 
 
-            int d = Convert.ToInt32(day);
-            if (d > 6)
-            {
-                Console.WriteLine("There are only 7 days a week you cannot enter more than number 6");
-                
-            }
+            
             
             Console.WriteLine(dayValue);
 
@@ -35,9 +30,12 @@ class Program
         {
             // if there was an error(lower case input) then catch block is presenting this message
             Console.WriteLine("Please Enter actual day");
-           
         }
-        
+        catch 
+        {
+            Console.WriteLine("Please Enter actual day");
+        }
+       
         
         
 
