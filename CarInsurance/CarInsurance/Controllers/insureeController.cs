@@ -99,11 +99,11 @@ namespace CarInsurance.Controllers
                 }
                 if (DUI == true)
                 {
-                    Quotes += Quotes * 1.25m;
+                    Quotes *= 1.25m;
                 }
                 if (coverageType == true)
                 {
-                    Quotes += Quotes * 0.5m;
+                    Quotes *= 0.5m;
                 };
 
 
