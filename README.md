@@ -15,3 +15,7 @@
 </ul>
 
 
+
+<p> 
+This small project is an MVC web application that mimics a car insurance website. It takes user's input on policy information and calculates and calculates a quotes based on business logic. There is also an admin page that allows staff to watch all the quotes that's been issued.
+</p>
