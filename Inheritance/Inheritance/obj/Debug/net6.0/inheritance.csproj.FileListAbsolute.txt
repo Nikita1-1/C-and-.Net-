@@ -1,0 +1,15 @@
+/Users/nikitasazonov/Projects/Inheritance/Inheritance/obj/Debug/net6.0/inheritance.csproj.AssemblyReference.cache
+/Users/nikitasazonov/Projects/Inheritance/Inheritance/obj/Debug/net6.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitasazonov/Projects/Inheritance/Inheritance/obj/Debug/net6.0/inheritance.AssemblyInfoInputs.cache
+/Users/nikitasazonov/Projects/Inheritance/Inheritance/obj/Debug/net6.0/inheritance.AssemblyInfo.cs
+/Users/nikitasazonov/Projects/Inheritance/Inheritance/obj/Debug/net6.0/inheritance.csproj.CoreCompileInputs.cache
+/Users/nikitasazonov/Projects/Inheritance/Inheritance/bin/Debug/net6.0/inheritance
+/Users/nikitasazonov/Projects/Inheritance/inheritance/bin/Debug/net6.0/inheritance.deps.json
+/Users/nikitasazonov/Projects/Inheritance/inheritance/bin/Debug/net6.0/inheritance.runtimeconfig.json
+/Users/nikitasazonov/Projects/Inheritance/Inheritance/bin/Debug/net6.0/inheritance.dll
+/Users/nikitasazonov/Projects/Inheritance/Inheritance/bin/Debug/net6.0/inheritance.pdb
+/Users/nikitasazonov/Projects/Inheritance/Inheritance/obj/Debug/net6.0/inheritance.dll
+/Users/nikitasazonov/Projects/Inheritance/Inheritance/obj/Debug/net6.0/refint/inheritance.dll
+/Users/nikitasazonov/Projects/Inheritance/Inheritance/obj/Debug/net6.0/inheritance.pdb
+/Users/nikitasazonov/Projects/Inheritance/inheritance/obj/Debug/net6.0/inheritance.genruntimeconfig.cache
+/Users/nikitasazonov/Projects/Inheritance/inheritance/obj/Debug/net6.0/ref/inheritance.dll

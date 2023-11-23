@@ -1,0 +1,15 @@
+/Users/nikitasazonov/Projects/CarInsuranceApp/CarInsuranceApp/bin/Debug/net6.0/CarInsuranceApp
+/Users/nikitasazonov/Projects/CarInsuranceApp/CarInsuranceApp/bin/Debug/net6.0/CarInsuranceApp.deps.json
+/Users/nikitasazonov/Projects/CarInsuranceApp/CarInsuranceApp/bin/Debug/net6.0/CarInsuranceApp.runtimeconfig.json
+/Users/nikitasazonov/Projects/CarInsuranceApp/CarInsuranceApp/bin/Debug/net6.0/CarInsuranceApp.dll
+/Users/nikitasazonov/Projects/CarInsuranceApp/CarInsuranceApp/bin/Debug/net6.0/CarInsuranceApp.pdb
+/Users/nikitasazonov/Projects/CarInsuranceApp/CarInsuranceApp/obj/Debug/net6.0/CarInsuranceApp.csproj.AssemblyReference.cache
+/Users/nikitasazonov/Projects/CarInsuranceApp/CarInsuranceApp/obj/Debug/net6.0/CarInsuranceApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitasazonov/Projects/CarInsuranceApp/CarInsuranceApp/obj/Debug/net6.0/CarInsuranceApp.AssemblyInfoInputs.cache
+/Users/nikitasazonov/Projects/CarInsuranceApp/CarInsuranceApp/obj/Debug/net6.0/CarInsuranceApp.AssemblyInfo.cs
+/Users/nikitasazonov/Projects/CarInsuranceApp/CarInsuranceApp/obj/Debug/net6.0/CarInsuranceApp.csproj.CoreCompileInputs.cache
+/Users/nikitasazonov/Projects/CarInsuranceApp/CarInsuranceApp/obj/Debug/net6.0/CarInsuranceApp.dll
+/Users/nikitasazonov/Projects/CarInsuranceApp/CarInsuranceApp/obj/Debug/net6.0/refint/CarInsuranceApp.dll
+/Users/nikitasazonov/Projects/CarInsuranceApp/CarInsuranceApp/obj/Debug/net6.0/CarInsuranceApp.pdb
+/Users/nikitasazonov/Projects/CarInsuranceApp/CarInsuranceApp/obj/Debug/net6.0/CarInsuranceApp.genruntimeconfig.cache
+/Users/nikitasazonov/Projects/CarInsuranceApp/CarInsuranceApp/obj/Debug/net6.0/ref/CarInsuranceApp.dll

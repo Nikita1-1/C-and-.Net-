@@ -1,0 +1,15 @@
+/Users/nikitasazonov/Projects/MethodsAssignment/MethodsAssignment/obj/Debug/net6.0/MethodsAssignment.csproj.AssemblyReference.cache
+/Users/nikitasazonov/Projects/MethodsAssignment/MethodsAssignment/obj/Debug/net6.0/MethodsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitasazonov/Projects/MethodsAssignment/MethodsAssignment/obj/Debug/net6.0/MethodsAssignment.AssemblyInfoInputs.cache
+/Users/nikitasazonov/Projects/MethodsAssignment/MethodsAssignment/obj/Debug/net6.0/MethodsAssignment.AssemblyInfo.cs
+/Users/nikitasazonov/Projects/MethodsAssignment/MethodsAssignment/obj/Debug/net6.0/MethodsAssignment.csproj.CoreCompileInputs.cache
+/Users/nikitasazonov/Projects/MethodsAssignment/MethodsAssignment/bin/Debug/net6.0/MethodsAssignment
+/Users/nikitasazonov/Projects/MethodsAssignment/MethodsAssignment/bin/Debug/net6.0/MethodsAssignment.deps.json
+/Users/nikitasazonov/Projects/MethodsAssignment/MethodsAssignment/bin/Debug/net6.0/MethodsAssignment.runtimeconfig.json
+/Users/nikitasazonov/Projects/MethodsAssignment/MethodsAssignment/bin/Debug/net6.0/MethodsAssignment.dll
+/Users/nikitasazonov/Projects/MethodsAssignment/MethodsAssignment/bin/Debug/net6.0/MethodsAssignment.pdb
+/Users/nikitasazonov/Projects/MethodsAssignment/MethodsAssignment/obj/Debug/net6.0/MethodsAssignment.dll
+/Users/nikitasazonov/Projects/MethodsAssignment/MethodsAssignment/obj/Debug/net6.0/refint/MethodsAssignment.dll
+/Users/nikitasazonov/Projects/MethodsAssignment/MethodsAssignment/obj/Debug/net6.0/MethodsAssignment.pdb
+/Users/nikitasazonov/Projects/MethodsAssignment/MethodsAssignment/obj/Debug/net6.0/MethodsAssignment.genruntimeconfig.cache
+/Users/nikitasazonov/Projects/MethodsAssignment/MethodsAssignment/obj/Debug/net6.0/ref/MethodsAssignment.dll
